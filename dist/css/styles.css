@@ -8246,8 +8246,8 @@ textarea.form-control-lg {
 }
 
 .text-white-50 {
-  --bs-text-opacity: 1;
-  color: rgba(255, 255, 255, 0.5) !important;
+  
+  color: rgba(255, 255, 255, 0.8) !important;
 }
 
 .text-reset {
@@ -11200,4 +11200,35 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+
+.flex-container{
+  display:flex;
+  flex-direction:row;
+}
+
+@media (max-width: 800px){
+  .flex-container{
+    flex-direction:column;
+  }
+}
+
+
+.float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:40px;
+	right:40px;
+	background-color:#25d366;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 2px 2px 3px #999;
+  z-index:100;
+}
+
+.my-float{
+	margin-top:16px;
 }
