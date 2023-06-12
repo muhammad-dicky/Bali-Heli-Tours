@@ -1,13 +1,9 @@
-# [Start Bootstrap - Grayscale](https://startbootstrap.com/theme/grayscale/)
 
-[Grayscale](https://startbootstrap.com/theme/grayscale/) is a multipurpose, one page HTML theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
-
-## Preview
 
 ![image](https://github.com/muhammad-dicky/Bali-Heli-Tours/assets/58357765/909307bb-5e09-43d7-8cf1-1c6b550208da)
 
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-grayscale/)**
+**[View Live Preview](https://startbootstrap.github.io/startbootstrap-grayscale/](https://agus-heli-tours.vercel.app/)**
 
 ## Status
 
